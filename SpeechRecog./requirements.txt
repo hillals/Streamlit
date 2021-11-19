@@ -1,8 +1,0 @@
-PyAudio==0.2.11
-scikit-learn==1.0.1
-scipy==1.7.2
-SpeechRecognition==3.8.1
-streamlit==1.2.0
-sumapi==0.3.3
-turkishnlp==0.0.61
-
